@@ -181,7 +181,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
     {
         name: "Aberri Taurn",
-        img: "rdjHZ0K.png",
+        img: "rdjHz0K.png",
         opts: {
             area: ["LAC"],
             status: ["MORT"],
@@ -245,7 +245,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Alheitham Oroboras",
-        img: "dR8AO5k.png",
+        img: "dR8AO5K.png",
         opts: {
             area: ["THAL"],
             gender: ["M"],
