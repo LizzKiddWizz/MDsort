@@ -181,7 +181,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
     {
         name: "Aberri Taurn",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/18480384?1666215709",
+        img: "rdjHZ0K.png",
         opts: {
             area: ["LAC"],
             status: ["MORT"],
@@ -194,7 +194,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Adamos Serim",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/21414844?1746157417",
+        img: "2GP8Gql.png",
         opts: {
             area: ["ASC"],
             status: ["ASC"],
@@ -207,7 +207,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aim Ledoux",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/29128086?1731985748",
+        img: "jiqSKRy.png",
         opts: {
             area: ["LAC"],
             status: ["ENDI"],
@@ -220,7 +220,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Airmes Altos",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/19622348?1673240007",
+        img: "q7G2HsB.png",
         opts: {
             area: ["LAC"],
             status: ["SEV"],
@@ -233,7 +233,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Alamon Crescens",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/10950657?1651861612",
+        img: "JXjk9gA.png",
         opts: {
             area: ["THAL"],
             gender: ["M"],
@@ -245,7 +245,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Alheitham Oroboras",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/21494461?1683934202",
+        img: "dR8AO5k.png",
         opts: {
             area: ["THAL"],
             gender: ["M"],
@@ -257,7 +257,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Alicestasia Lovely",
-        img: "https://f2.toyhou.se/file/f2-toyhou-se/characters/25885186?1708321774",
+        img: "uRHvqb1.png",
         opts: {
             area: ["THAL"],
             gender: ["F"],
@@ -268,16 +268,15 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Amodeus Constanza",
+        img: "yEWJuf5.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["BLO"],
+            E: ["B"],
             GR: false,
-            element: [""]
+            element: ["THAL"]
         }
     },
     {
