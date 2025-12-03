@@ -24,6 +24,7 @@ dataSet[dataSetVersion].options = [
         sub: [
             { name: "Ascencia", tooltip: "Defined by their angelic appearence and residence in Ascension.", key: "ASC" },
             { name: "Circlean", tooltip: "Beings created with the purpose of reaping souls, they reside in Purgatory.", key: "CIR" },
+            { name: "Death Brigade", tooltip: "Death Brigade members reside in Purgatory and venture out to reap souls.", key: "DB" },
             { name: "Endi", tooltip: "Empowered Lacra, they live within Lacrimae.", key: "END" },
             { name: "Sev", tooltip: "Regular Lacra who live in Lacrimae.", key: "SEV" },
             { name: "Mortal", tooltip: "They have died, and now exist within an Arcana.", key: "MORT" }
@@ -280,159 +281,158 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Amy Callipso",
+        img: "xrBJ0DF.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false,
-            element: [""]
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["F"],
+            H: ["BLK"],
+            E: ["G"],
+            GR: true,
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Arastmus Luciendo",
+        img: "XKnQhcn.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["SEV"],
+            gender: ["M"],
+            H: ["W"],
+            E: ["B"],
             GR: false,
-            element: [""]
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Artorias Poe",
+        img: "9vKCvnw.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["CIR"],
+            gender: ["M"],
+            H: ["MC", "BLK", "W"],
+            E: ["MC", "GRY", "PUR"],
             GR: false,
-            element: [""]
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Asmoday Catullus",
+        img: "TCVDMYC.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false,
-            element: [""]
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["PUR"],
+            E: ["B"],
+            GR: true,
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Astaroth Guile",
+        img: "aN0i2Et.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false,
-            element: [""]
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["MC", "BRN", "W"],
+            E: ["Y"],
+            GR: true,
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Azazel Mistral-O'Malley",
+        img: "rJQxGJt.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BLK"],
+            E: ["R"],
             GR: false,
-            element: [""]
+            element: ["SHA"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Bael Ragna",
+        img: "HvmpqjN.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false,
-            element: [""]
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["F"],
+            H: ["BRN"],
+            E: ["R"],
+            GR: true,
+            element: ["SND"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Bahri Metem",
+        img: "Q9MEQ1I.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BLK"],
+            E: ["Y"],
             GR: false,
-            element: [""]
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Balheitham Plastisum",
+        img: "E6EcpzK.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["BLK"],
+            E: ["W"],
             GR: false,
-            element: [""]
+            element: ["THAL"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Barbatos Iraklidis",
+        img: "p32pTVm",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false,
-            element: [""]
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["MC", "G", "BRN"],
+            E: ["B"],
+            GR: true,
+            element: ["WAV"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Barchiel Ouroboros",
+        img: "vnbiOev.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BLK"],
+            E: ["MC", "Y", "B"],
             GR: false,
-            element: [""]
+            element: ["UN"]
         }
     },
     {
-        name: "",
-        img: "",
+        name: "BECC BSoD",
+        img: "Mb8pPeA.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["MORT", "DB"],
+            gender: ["M"],
+            H: ["PI"],
+            E: ["PI"],
             GR: false,
-            element: [""]
+            element: ["UN"]
         }
     },
     {
