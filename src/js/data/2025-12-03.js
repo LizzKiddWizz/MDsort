@@ -292,7 +292,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Barbatos Iraklidis",
-        img: "p32pTVm",
+        img: "p32pTVm.png",
         opts: {
             area: ["LAC"],
             status: ["ENDI"],
@@ -374,7 +374,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Celestra Kephriel",
-        img: "SATSjpT.png",
+        img: "Y7do6JZ.png",
         opts: {
             area: ["ASC"],
             status: ["ASC"],
