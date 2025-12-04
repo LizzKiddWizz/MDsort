@@ -422,7 +422,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Dantalion Rex",
-        img: "RfnE94O.png",
+        img: "cIWhp8e.png",
         opts: {
             area: ["LAC"],
             status: ["ENDI"],
