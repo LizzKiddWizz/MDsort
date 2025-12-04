@@ -386,7 +386,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Cetus Lambdin",
-        img: "aCHqFn7.png",
+        img: "iEaZks9.png",
         opts: {
             area: ["LAC"],
             status: ["SEV"],
@@ -493,146 +493,142 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Evanadne Onise",
+        img: "5sqVG63.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["ASC"],
+            status: ["MORT"],
+            gender: ["F"],
+            H: ["BLK"],
+            E: ["BLK"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Evengeline Alu",
+        img: "JRwPmJn.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["F"],
+            H: ["MC", "BLO", "PI"],
+            E: ["MC", "Y", "O"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Exodus Erzimion",
+        img: "KsVbvZV.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["W"],
+            E: ["BLK"],
+            GR: true
+        }
+    },
+    {
+        name: "Ezralibub Calidulce",
+        img: "2ZrQDdw.png",
+        opts: {
+            area: ["LAC"],
+            status: ["CRS"],
+            gender: ["M"],
+            H: ["BLO"],
+            E: ["G"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "FAFNIR",
+        img: "OIjLmCt.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["BAL"],
+            E: ["Y"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Felisance Meteoris",
+        img: "4aIRthP.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["MC", "W", "BLK"],
+            E: ["W"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Feryl Donahue",
+        img: "USq5xnc.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["SEV"],
+            gender: ["M"],
+            H: ["MC", "PUR", "B"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Freyas Sienan",
+        img: "eSnMxtT.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["DB"],
+            gender: ["F"],
+            H: ["B"],
+            E: ["G"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Frida Areza",
+        img: "cY5Jfxz.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["ASC", "LIV"],
+            gender: ["F"],
+            H: ["BRN"],
+            E: ["MC", "B", "PUR"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Genevieve La Cruz",
+        img: "NTCPWQT.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["F"],
+            H: ["BLO"],
+            E: ["BRN"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Geranigor Ishtarinavani",
+        img: "yD1Iutx.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["CRS"],
+            gender: ["M"],
+            H: ["W"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Giavanna Alighieri",
+        img: "BZN2bRR.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false
-        }
-    },
-    {
-        name: "",
-        img: "",
-        opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["CIR"],
+            gender: ["F"],
+            H: ["MC", "BRN", "W"],
+            E: ["MC", "PUR", "PI"],
             GR: false
         }
     },
