@@ -633,326 +633,320 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Godellious Gabriel",
+        img: "pCGoE5O.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["F", "M"],
+            H: ["W"],
+            E: ["G"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Gremory Modus",
+        img: "PpEQxCt.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BLO"],
+            E: ["Y"],
+            GR: true
+        }
+    },
+    {
+        name: "Haagenti Dellora",
+        img: "UWMYMy7.png",
+        opts: {
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["F"],
+            H: ["MC", "BRN", "GRY"],
+            E: ["MC", "B", "BRN"],
+            GR: true
+        }
+    },
+    {
+        name: "Halcyon Galia",
+        img: "6QOnnyH.png",
+        opts: {
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["MC", "W", "R"],
+            E: ["MC", "R", "B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Lahty Constanza",
+        img: "JwLVGlq.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["BRN"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Kana Constanza",
+        img: "XsU7fkG.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["MC", "BLO", "BRN"],
+            E: ["MC", "R", "B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Ipos Anais",
+        img: "BxTkQ4c.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BRN"],
+            E: ["Y"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Ivris Quin",
+        img: "2MRkXWO.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["SEV"],
+            gender: ["M"],
+            H: ["W"],
+            E: ["Y"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Jebidiah Leonard",
+        img: "LMuK7XO.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["BRN"],
+            E: ["Y"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Kacellius Voltama",
+        img: "qtGpLoX.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["MORT"],
+            gender: ["M"],
+            H: ["PI"],
+            E: ["Y"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Koda Rookwood",
+        img: "QUx2Lof.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["DB"],
+            gender: ["M"],
+            H: ["BLK"],
+            E: ["G"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Kushiel Prower",
+        img: "k6gKA1D.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["ASC"],
+            status: ["ASC"],
+            gender: ["M"],
+            H: ["BLO"],
+            E: ["PUR"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Law Huntsman",
+        img: "1hDHxOC.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["MORT"],
+            gender: ["M"],
+            H: ["MC", "W", "BLO"],
+            E: ["Y"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Lazaezel Mistral",
+        img: "P8SC9EY.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["CRS"],
+            gender: ["F"],
+            H: ["G"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Lazarus Leander",
+        img: "8JImInC.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["F"],
+            H: ["PUR"],
+            E: ["G"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Leraje Ecahedrin",
+        img: "auEsxvV.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BLO"],
+            E: ["Y"],
+            GR: true
+        }
+    },
+    {
+        name: "Lucian Nightingale",
+        img: "sHuBFUC.png",
+        opts: {
+            area: ["LAC"],
+            status: ["CRS"],
+            gender: ["M"],
+            H: ["MC", "B", "BLK"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Luciel Seraphina",
+        img: "aJKPB0M.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["ASC"],
+            status: ["ASC"],
+            gender: ["M"],
+            H: ["MC", "BLO", "B"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Magnus Aueralis",
+        img: "eXQzLUG.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["PURG"],
+            status: ["MORT"],
+            gender: ["M"],
+            H: ["BAL"],
+            E: ["G", "B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Maksim Laumes",
+        img: "XwnxKJs.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["SEV"],
+            gender: ["M"],
+            H: ["PUR"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Malthus Sonus Inferni",
+        img: "aoTKVLd.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["BAL"],
+            E: ["PI"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Mameel Phimos",
+        img: "2riXEV7.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["ASC"],
+            status: ["ASC"],
+            gender: ["M"],
+            H: ["MC", "BLO", "B"],
+            E: ["MC", "G", "B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Mamoru Uki",
+        img: "Pu5o1Ma.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["MORT"],
+            gender: ["M"],
+            H: ["PUR"],
+            E: ["B"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Marbas Vincent",
+        img: "VUlRI7o.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
+            H: ["B"],
+            E: ["B"],
+            GR: true
+        }
+    },
+    {
+        name: "Marguerite Leglise",
+        img: "9YjFltl.png",
+        opts: {
+            area: ["THAL"],
+            gender: ["F"],
+            H: ["MC", "BLO", "BRN"],
+            E: ["BRN"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Mercusious Thiabult",
+        img: "ihbp3x1.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["THAL"],
+            gender: ["M"],
+            H: ["B"],
+            E: ["MC", "O", "BLK"],
             GR: false
         }
     },
     {
-        name: "",
-        img: "",
+        name: "Merlin Lagrange",
+        img: "28izoKG.png",
         opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false
-        }
-    },
-    {
-        name: "",
-        img: "",
-        opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false
-        }
-    },
-    {
-        name: "",
-        img: "",
-        opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false
-        }
-    },
-    {
-        name: "",
-        img: "",
-        opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
-            GR: false
-        }
-    },
-    {
-        name: "",
-        img: "",
-        opts: {
-            area: [""],
-            status: [""],
-            gender: [""],
-            H: [""],
-            E: [""],
+            area: ["ASC"],
+            status: ["MORT"],
+            gender: ["M"],
+            H: ["R"],
+            E: ["G"],
             GR: false
         }
     },
