@@ -827,6 +827,18 @@ dataSet[dataSetVersion].characterData = [
             area: ["LAC"],
             status: ["ENDI"],
             gender: ["M"],
+            H: ["G"],
+            E: ["MC", "B", "G"],
+            GR: true
+        }
+    },
+    {
+        name: "Lios Focalor",
+        img: "2riXEV7.png",
+        opts: {
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["M"],
             H: ["BLO"],
             E: ["Y"],
             GR: true
