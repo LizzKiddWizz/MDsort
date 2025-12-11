@@ -280,6 +280,18 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
+        name: "Balamn Laurent",
+        img: "0MZNXyw.png",
+        opts: {
+            area: ["LAC"],
+            status: ["ENDI"],
+            gender: ["F"],
+            H: ["PI"],
+            E: ["O"],
+            GR: true
+        }
+    },
+    {
         name: "Balheitham Plastisum",
         img: "E6EcpzK.png",
         opts: {
